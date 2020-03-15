@@ -12,7 +12,9 @@ We show how kmeans and spectral clustering performs in this framework
 
 In **part II** we used the previous methods of graph clustering to perform **clustering on a point cloud data (PCD)**
 
-Again we show how kmeans and spectral clustering performs in this framework
+Again we show how kmeans and spectral clustering performs in this framework.
+
+Graph complexity depends on the complexity of **vertices profils**. In order to compare performance we computed a **label recovery error**. Although it should be noted that here models only perform **partial recovery**. Indeed each model maps each vertex to one cluster while MMSBM model is much more complex is general. Indeed each vertex maps to a proportion of membership for each community. As a consequence we considered for each vertex the true cluster to be the cluster for which **the proportion of membership is the highest**.
 
 ## Part I: mixed membership stochastic block model (MMSBM)
 
