@@ -4,20 +4,20 @@ In the following we compared two techniques of **clustering** **Kmeans** and **s
 
 > *A Tutorial on Spectral Clustering*, Ulrike von Luxburg, 2007
 
-In part I we used a generative model of graphs called **mixed membership stochastic block model (MMSBM)** from reference:
+In **part I** we used a generative model of graphs called **mixed membership stochastic block model (MMSBM)** from reference:
 
 > *Mixed Membership Stochastic Block models*, Edoardo M. Airoldi, David M. Blei, Stephen E. Fienberg, Eric P. Xing, 2008
 
 We show how kmeans and spectral clustering performs in this framework
 
-In part II we used the previous methods of graph clustering to perform **clustering on a point cloud data (PCD)**
+In **part II** we used the previous methods of graph clustering to perform **clustering on a point cloud data (PCD)**
 
 Again we show how kmeans and spectral clustering performs in this framework
 
 ## Part I: mixed membership stochastic block model (MMSBM)
 
 <p align="center">
-  <img src="img/mmsbm_gen.png" width="35%">
+  <img src="img/mmsbm_gen.png" width="80%">
 </p>
 
 
