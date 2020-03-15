@@ -22,6 +22,21 @@ Here is a summarized presentation of the generative model:
   <img src="img/mmsbm_gen.png" width="90%">
 </p>
 
+### low complexity graphs
+
+We sampled MMSBM graphs with parameters:
+
+<p align="left">
+  <img src="img/mmsbm_lc.png" width="50%">
+</p>
+
+### medium complexity graphs
+
+We sampled MMSBM graphs with parameters:
+
+<p align="left">
+  <img src="img/mmsbm_mc.png" width="50%">
+</p>
 
 ## Part II: Application to Point Cloud Data
 
