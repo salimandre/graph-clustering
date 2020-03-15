@@ -167,7 +167,8 @@ we sample each edge with (1-sparsity_param) x proba_edge
   <img src="img/cg_results.png" width="60%">
 </p>
 
+### In Conclusion
 
-
+Spectral clustering performs better than Kmeans in k-NN graphs and therefore on point cloud data. Is is also a more efficient technique since it uses way less dimensions than kmeans.
 
 
