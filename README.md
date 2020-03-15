@@ -134,6 +134,13 @@ we sample each edge with (1-sparsity_param) x proba_edge
   <img src="img/mmsbm_results_sparse.png" width="60%">
 </p>
 
+### In Conclusion:
+
+- With low sparsity, kmeans tends to perform slightly better. It is expected since Kmeans over adjancency matrix use a lot more dimensions than spectral clustering.
+
+- With high sparsity, spectral clustering performs better than kmeans. It can be explained by the fact that if Kmeans use a lot more dimensions, it focuses on intra cluster information and gets easily stuck in **local minima**. In the contrary spectral clustering method focuses on inter-cluster information.
+  Actually the latter graph looks like a **k-Nearest-Neighborhood graph**. In the next part we will see that we can use this property to perform clustering in point cloud data.
+
 ## Part II: Application to Point Cloud Data
 
 
