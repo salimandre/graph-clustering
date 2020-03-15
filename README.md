@@ -16,7 +16,10 @@ Again we show how kmeans and spectral clustering performs in this framework
 
 ## Part I: mixed membership stochastic block model (MMSBM)
 
-img/mmsbm_gen.png
+<p align="center">
+  <img src="img/mmsbm_gen.png" width="35%">
+</p>
+
 
 ## Part II: Application to Point Cloud Data
 
