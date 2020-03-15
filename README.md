@@ -10,11 +10,16 @@ In part I we used a generative model of graphs called **mixed membership stochas
 
 We show how kmeans and spectral clustering performs in this framework
 
-In part II we used the previous methods of graph clustering to perform **clustering on a point cloud data (PCD) **
+In part II we used the previous methods of graph clustering to perform **clustering on a point cloud data (PCD)**
 
 Again we show how kmeans and spectral clustering performs in this framework
 
 ## Part I: mixed membership stochastic block model (MMSBM)
+
+<p align="center">
+  <img src="img/mmsbm_gen.png" width="35%">
+</p>
+
 
 ## Part II: Application to Point Cloud Data
 
