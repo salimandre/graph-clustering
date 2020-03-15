@@ -59,11 +59,11 @@ We sampled MMSBM graphs with parameters:
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_truth_0-3.png" width="85%">
+  <img src="img/mmsbm_truth_0-3.png" width="50%">
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_kmeans_0-3.png" width="85%">
+  <img src="img/mmsbm_kmeans_0-3.png" width="50%">
 </p>
 
 <p align="center">
