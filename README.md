@@ -27,7 +27,7 @@ Here is a summarized presentation of the generative model:
 We sampled MMSBM graphs with parameters:
 
 <p align="left">
-  <img src="img/mmsbm_lc.png" width="50%">
+  <img src="img/mmsbm_lc.png" width="30%">
 </p>
 
 ### medium complexity graphs
@@ -35,7 +35,7 @@ We sampled MMSBM graphs with parameters:
 We sampled MMSBM graphs with parameters:
 
 <p align="left">
-  <img src="img/mmsbm_mc.png" width="50%">
+  <img src="img/mmsbm_mc.png" width="30%">
 </p>
 
 ## Part II: Application to Point Cloud Data
