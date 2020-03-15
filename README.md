@@ -16,8 +16,10 @@ Again we show how kmeans and spectral clustering performs in this framework
 
 ## Part I: mixed membership stochastic block model (MMSBM)
 
+Here is a summarized presentation of the generative model:
+
 <p align="center">
-  <img src="img/mmsbm_gen.png" width="80%">
+  <img src="img/mmsbm_gen.png" width="90%">
 </p>
 
 
