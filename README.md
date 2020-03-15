@@ -31,19 +31,19 @@ We sampled MMSBM graphs with parameters:
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_show_0-05.png" width="75%">
+  <img src="img/mmsbm_show_0-05.png" width="85%">
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_truth_0-05.png" width="20%">
+  <img src="img/mmsbm_truth_0-05.png" width="30%">
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_kmeans_0-05.png" width="20%">
+  <img src="img/mmsbm_kmeans_0-05.png" width="30%">
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_spectral_0-05.png" width="20%">
+  <img src="img/mmsbm_spectral_0-05.png" width="85%">
 </p>
 
 ### medium complexity graphs
@@ -59,11 +59,11 @@ We sampled MMSBM graphs with parameters:
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_truth_0-3.png" width="35%">
+  <img src="img/mmsbm_truth_0-3.png" width="30%">
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_kmeans_0-3.png" width="35%">
+  <img src="img/mmsbm_kmeans_0-3.png" width="30%">
 </p>
 
 <p align="center">
