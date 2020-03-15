@@ -22,7 +22,7 @@ Here is a summarized presentation of the generative model:
   <img src="img/mmsbm_gen.png" width="90%">
 </p>
 
-### low complexity graphs
+### Low complexity graphs
 
 - model:
 
@@ -58,7 +58,7 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_results_0-05.png" width="50%">
 </p>
 
-### medium complexity graphs
+### Medium complexity graphs
 
 - model:
 
@@ -94,7 +94,7 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_results_0-3.png" width="50%">
 </p>
 
-### low complexity graphs high sparsity
+### Low complexity graphs high sparsity
 
 - model:
 
