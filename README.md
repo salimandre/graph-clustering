@@ -30,12 +30,32 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_lc.png" width="20%">
 </p>
 
+<p align="center">
+  <img src="img/mmsbm_show_0-05.png" width="20%">
+</p>
+
+<p align="center">
+  <img src="img/mmsbm_truth_0-05.png" width="20%">
+  <img src="img/mmsbm_kmeans_0-05.png" width="20%">
+  <img src="img/mmsbm_spectral_0-05.png" width="20%">
+</p>
+
 ### medium complexity graphs
 
 We sampled MMSBM graphs with parameters:
 
 <p align="left">
   <img src="img/mmsbm_mc.png" width="20%">
+</p>
+
+<p align="center">
+  <img src="img/mmsbm_show_0-3.png" width="20%">
+</p>
+
+<p align="center">
+  <img src="img/mmsbm_truth_0-3.png" width="20%">
+  <img src="img/mmsbm_kmeans_0-3.png" width="20%">
+  <img src="img/mmsbm_spectral_0-3.png" width="20%">
 </p>
 
 ## Part II: Application to Point Cloud Data
