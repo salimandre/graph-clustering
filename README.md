@@ -54,9 +54,13 @@ We sampled MMSBM graphs with parameters:
 
 - Results:
 
-label recovery error
+<p align="center">
+  <img src="img/mmsbm_results_0-05.png" width="50%">
+</p>
 
 ### medium complexity graphs
+
+- model:
 
 We sampled MMSBM graphs with parameters:
 
@@ -72,15 +76,27 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_truth_0-3.png" width="30%">
 </p>
 
+- Kmeans clustering using adjacency representation:
+
 <p align="center">
   <img src="img/mmsbm_kmeans_0-3.png" width="30%">
 </p>
+
+- Normalized Spectral Clustering:
 
 <p align="center">
   <img src="img/mmsbm_spectral_0-3.png" width="85%">
 </p>
 
+- Results:
+
+<p align="center">
+  <img src="img/mmsbm_results_0-3.png" width="50%">
+</p>
+
 ### low complexity graphs high sparsity
+
+- model:
 
 We sampled MMSBM graphs with parameters:
 
@@ -94,13 +110,19 @@ we sample each edge with (1-rho) x proba_matching
   <img src="img/mmsbm_show_sparse.png" width="85%">
 </p>
 
+- Kmeans clustering using adjacency representation:
+
 <p align="center">
   <img src="img/mmsbm_truth_sparse.png" width="30%">
 </p>
 
+- Normalized Spectral Clustering:
+
 <p align="center">
   <img src="img/mmsbm_kmeans_sparse.png" width="30%">
 </p>
+
+- Results:
 
 <p align="center">
   <img src="img/mmsbm_spectral_sparse.png" width="85%">
