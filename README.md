@@ -54,10 +54,10 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_spectral_0-05.png" width="85%">
 </p>
 
-- Results:
+- Results (averaged over 12 sampling):
 
 <p align="center">
-  <img src="img/mmsbm_results_0-05.png" width="50%">
+  <img src="img/mmsbm_results_0-05.png" width="60%">
 </p>
 
 ### Medium complexity graphs
@@ -90,10 +90,10 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_spectral_0-3.png" width="85%">
 </p>
 
-- Results:
+- Results (averaged over 12 sampling):
 
 <p align="center">
-  <img src="img/mmsbm_results_0-3.png" width="50%">
+  <img src="img/mmsbm_results_0-3.png" width="60%">
 </p>
 
 ### Low complexity graphs high sparsity
@@ -128,10 +128,10 @@ we sample each edge with (1-sparsity_param) x proba_edge
   <img src="img/mmsbm_spectral_sparse.png" width="85%">
 </p>
 
-- Results:
+- Results (averaged over 12 sampling):
 
 <p align="center">
-  <img src="img/mmsbm_results_sparse.png" width="50%">
+  <img src="img/mmsbm_results_sparse.png" width="60%">
 </p>
 
 ## Part II: Application to Point Cloud Data
