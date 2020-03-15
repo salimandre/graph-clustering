@@ -50,6 +50,14 @@ We sampled MMSBM graphs with parameters:
 
 We sampled MMSBM graphs with parameters:
 
+<p align="left">
+  <img src="img/mmsbm_mc.png" width="20%">
+</p>
+
+<p align="center">
+  <img src="img/mmsbm_show_0-3.png" width="20%">
+</p>
+
 <p align="center">
   <img src="img/mmsbm_truth_0-3.png" width="20%">
 </p>
