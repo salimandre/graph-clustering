@@ -31,7 +31,7 @@ We sampled MMSBM graphs with parameters:
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_show_0-05.png" width="20%">
+  <img src="img/mmsbm_show_0-05.png" width="60%">
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ We sampled MMSBM graphs with parameters:
 </p>
 
 <p align="center">
-  <img src="img/mmsbm_show_0-3.png" width="20%">
+  <img src="img/mmsbm_show_0-3.png" width="60%">
 </p>
 
 <p align="center">
