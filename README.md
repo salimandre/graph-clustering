@@ -104,7 +104,7 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_lc_hs.png" width="20%">
 </p>
 
-we sample each edge with (1-sparsity_param) x proba_matching
+we sample each edge with (1-sparsity_param) x proba_edge
 
 <p align="center">
   <img src="img/mmsbm_show_sparse.png" width="85%">
