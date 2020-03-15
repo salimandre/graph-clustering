@@ -143,4 +143,31 @@ we sample each edge with (1-sparsity_param) x proba_edge
 
 ## Part II: Application to Point Cloud Data
 
+- Point Cloud Data model and k-NN graphs. Graph is made symmetric by taking A_sym_ij = {np.max(A_ij, A_ji)}_ij
+
+<p align="center">
+  <img src="img/cg_show.png" width="85%">
+</p>
+
+- Kmeans clustering using respectively PCD and adjacency representation:
+
+<p align="center">
+  <img src="img/cg_kmeans.png" width="50%">
+</p>
+
+- Normalized Spectral Clustering:
+
+<p align="center">
+  <img src="img/cg_spectral.png" width="85%">
+</p>
+
+- Results (averaged over 10 sampling):
+
+<p align="center">
+  <img src="img/cg_results.png" width="60%">
+</p>
+
+
+
+
 
