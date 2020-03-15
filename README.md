@@ -24,6 +24,8 @@ Here is a summarized presentation of the generative model:
 
 ### low complexity graphs
 
+- model:
+
 We sampled MMSBM graphs with parameters:
 
 <p align="left">
@@ -38,9 +40,13 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_truth_0-05.png" width="30%">
 </p>
 
+- Kmeans clustering using adjacency representation:
+
 <p align="center">
   <img src="img/mmsbm_kmeans_0-05.png" width="30%">
 </p>
+
+- Normalized Spectral Clustering:
 
 <p align="center">
   <img src="img/mmsbm_spectral_0-05.png" width="85%">
