@@ -152,7 +152,7 @@ we sample each edge with (1-sparsity_param) x proba_edge
 - Kmeans clustering using respectively PCD and adjacency representation:
 
 <p align="center">
-  <img src="img/cg_kmeans.png" width="50%">
+  <img src="img/cg_kmeans.png" width="65%">
 </p>
 
 - Normalized Spectral Clustering:
