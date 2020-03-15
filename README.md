@@ -52,6 +52,10 @@ We sampled MMSBM graphs with parameters:
   <img src="img/mmsbm_spectral_0-05.png" width="85%">
 </p>
 
+- Results:
+
+label recovery error
+
 ### medium complexity graphs
 
 We sampled MMSBM graphs with parameters:
@@ -74,6 +78,32 @@ We sampled MMSBM graphs with parameters:
 
 <p align="center">
   <img src="img/mmsbm_spectral_0-3.png" width="85%">
+</p>
+
+### low complexity graphs high sparsity
+
+We sampled MMSBM graphs with parameters:
+
+<p align="left">
+  <img src="img/mmsbm_lc_hs.png" width="20%">
+</p>
+
+we sample each edge with (1-rho) x proba_matching
+
+<p align="center">
+  <img src="img/mmsbm_show_sparse.png" width="85%">
+</p>
+
+<p align="center">
+  <img src="img/mmsbm_truth_sparse.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="img/mmsbm_kmeans_sparse.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="img/mmsbm_spectral_sparse.png" width="85%">
 </p>
 
 ## Part II: Application to Point Cloud Data
