@@ -8,13 +8,13 @@ In **part I** we used a generative model of graphs called **mixed membership sto
 
 > *Mixed Membership Stochastic Block models*, Edoardo M. Airoldi, David M. Blei, Stephen E. Fienberg, Eric P. Xing, 2008
 
-We show how kmeans and spectral clustering performs in this framework
+We show how kmeans and spectral clustering performs in this framework with different graph complexity.
+
+Graph complexity depends on the complexity of **vertices profils**. In order to compare performance we computed a **label recovery error**. Although it should be noted that here models only perform **partial recovery**. Indeed each model maps each vertex to one cluster while MMSBM model is much more complex is general. Indeed each vertex maps to a proportion of membership for each community. As a consequence we considered for each vertex the true cluster to be the cluster for which **the proportion of membership is the highest**.
 
 In **part II** we used the previous methods of graph clustering to perform **clustering on a point cloud data (PCD)**
 
 Again we show how kmeans and spectral clustering performs in this framework.
-
-Graph complexity depends on the complexity of **vertices profils**. In order to compare performance we computed a **label recovery error**. Although it should be noted that here models only perform **partial recovery**. Indeed each model maps each vertex to one cluster while MMSBM model is much more complex is general. Indeed each vertex maps to a proportion of membership for each community. As a consequence we considered for each vertex the true cluster to be the cluster for which **the proportion of membership is the highest**.
 
 ## Part I: mixed membership stochastic block model (MMSBM)
 
@@ -136,9 +136,9 @@ we sample each edge with (1-sparsity_param) x proba_edge
 
 ### In Conclusion:
 
-- With **low sparsity**, kmeans tends to perform slightly better. It is expected since Kmeans over adjancency matrix use a lot more dimensions than spectral clustering.
+- With **low sparsity**, kmeans tends to perform slightly better. It is expected since Kmeans over adjancency matrix uses a lot more dimensions than spectral clustering.
 
-- With **high sparsity**, spectral clustering performs better than kmeans. It can be explained by the fact that if Kmeans use a lot more dimensions, it focuses on intra cluster information and gets easily stuck in **local minima**. In the contrary spectral clustering method focuses on inter-cluster information.
+- With **high sparsity**, spectral clustering performs better than kmeans. It can be explained by the fact that if Kmeans uses a lot more dimensions, it focuses on intra cluster information and gets easily stuck in **local minima**. In the contrary spectral clustering method focuses on inter-cluster information.
   Actually the latter graph looks like a **k-Nearest-Neighborhood graph**. In the next part we will see that we can use this property to perform clustering in point cloud data.
 
 ## Part II: Application to Point Cloud Data
